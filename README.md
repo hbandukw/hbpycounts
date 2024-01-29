@@ -2,6 +2,9 @@
 
 A sample python package
 
+## Author
+Hina Bandukwala
+
 ## Installation
 
 ```bash
